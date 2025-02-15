@@ -38,6 +38,14 @@ export default function Navbar() {
             FAQ
           </Link>
         </li>
+        <li>
+          <Link
+            href=''
+            className='px-4 py-2 rounded-full border-2 border-green-400 bg-black text-base text-green-400 font-semibold'
+          >
+            Login
+          </Link>
+        </li>
       </ul>
     </nav>
   );
