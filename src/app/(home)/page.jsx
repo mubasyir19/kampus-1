@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <>
-      <section className='h-screen w-full bg-hero bg-cover bg-center'>
+      <section className='h-full w-full bg-hero bg-cover bg-center'>
         <div className='w-full h-full flex flex-col items-center justify-center text-center bg-black bg-opacity-50'>
           <h3 className='text-3xl text-white font-semibold'>Selamat Datang di Website</h3>
           <h1 className='text-4xl font-bold text-white'>
