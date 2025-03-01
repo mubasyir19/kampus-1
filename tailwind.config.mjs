@@ -14,6 +14,7 @@ export default {
       },
       backgroundImage: {
         hero: "url('/hero.webp')",
+        kampus: "url('/kampus.jpg')",
       },
     },
   },

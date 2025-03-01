@@ -9,7 +9,7 @@ export default function SidebarDash() {
   const pathname = usePathname();
 
   return (
-    <aside className='hidden md:block lg:w-56 xl:w-64 h-screen overflow-y-auto bg-black pt-6'>
+    <aside className='hidden md:block lg:w-56 xl:w-64 h-full overflow-y-auto bg-black pt-6'>
       <div className=''>
         <h1 className='text-center font-bold text-2xl text-green-400'>KampusKu</h1>
       </div>

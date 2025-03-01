@@ -19,7 +19,7 @@ export default function Navbar() {
           </Link>
         </li>
         <li>
-          <Link href='#' className='text-base text-white font-semibold'>
+          <Link href='/student-info' className='text-base text-white font-semibold'>
             Student Info
           </Link>
         </li>
@@ -40,7 +40,7 @@ export default function Navbar() {
         </li>
         <li>
           <Link
-            href=''
+            href='/login'
             className='px-4 py-2 rounded-full border-2 border-green-400 bg-black text-base text-green-400 font-semibold'
           >
             Login
